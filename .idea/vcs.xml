@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejercicio_05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM-JM-2023-2024-T3-Ej09_menuSimple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM-JM-2023-2024-T3_Ej06_seleccionesMultiples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM-JM-2023-2024-T3_Ej06_seleccionesMultiples Imagenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM-JM-2324-2024-T3-Ej08_spinnerPersonalizado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM-JM-2324-T03_Ej7_spinner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PMDM_Ejercicio01_VentanaDatosAlumno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Practica_PrT3" vcs="Git" />
   </component>
 </project>
