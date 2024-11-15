@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ejer_Intents_1</string>
+    <string name="name">Name</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="_10">10</string>
+    <string name="_100">100</string>
+    <string name="vacio">--</string>
+    <string name="eviar_datos">Eviar datos</string>
+    <string name="textview">TextView</string>
+</resources>

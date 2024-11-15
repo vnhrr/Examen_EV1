@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents_Ejer_3</string>
+    <string name="enviar_datos">Enviar datos</string>
+    <string name="mensaje">Mensaje</string>
+</resources>
