@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exam_EV1</string>
+    <string name="futbol">Futbol</string>
+    <string name="baloncesto">Basketball</string>
+    <string name="cartelera_teatro_calderon">Cartelera Teatro Calderon</string>
+    <string name="politica_nacional">National Politic</string>
+    <string name="politica_internacional">International Politic</string>
+    <string name="politica">Politics</string>
+    <string name="economia">Economy</string>
+    <string name="cultura">Culture</string>
+    <string name="deportes">Sports</string>
+    <string name="modo_avion_conectado">Airplane mode connected</string>
+    <string name="modo_avion_desconectado">Airplane mode disconnected</string>
+    <string name="compartir">Share</string>
+</resources>
